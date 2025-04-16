@@ -5,6 +5,7 @@
 - [github repos](https://github.com/CodeMonkeyNinja)
 - [Profile](https://github.com/HidekiAI)  [github.io](https://hidekiai.github.io/)
 
+![サルでもわかるRUSTプログラミング.png](サルでもわかるRUSTプログラミング.png)
 
 ## About
 
